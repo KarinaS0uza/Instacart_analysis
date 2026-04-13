@@ -29,7 +29,7 @@ The analysis uses multiple Instacart datasets containing customer orders, produc
 
 ## Tools Used
 * Python
-* pandas
+* Pandas
 * NumPy
 * Matplotlib
 * Seaborn
